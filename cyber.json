@@ -16,20 +16,24 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐲𝐛𝐞𝐫 𝐂𝐡𝐚𝐭",
+    "BOTNAME": "H͜͡AZOORBAKHSHウ",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100006420851274"
+        "100091827670508",
+        "61555704657869",
+        "100039910895412"
     ],
     "NDH": [
-        "100006420851274"
+        "100091827670508",
+        "61555704657869",
+        "100039910895412"
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "cyberstate.json",
+    "APPSTATEPATH": "appstate.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
